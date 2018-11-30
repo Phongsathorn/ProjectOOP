@@ -15,3 +15,5 @@ GameRPS เป็นมินิเกมส์เป่ายิ้งฉุบ
 
 หน้าเกมส์
 
+![screen](https://user-images.githubusercontent.com/20910410/49274194-23f9ef00-f4aa-11e8-83bd-b8c3bd03e4b4.JPG)
+
